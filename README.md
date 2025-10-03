@@ -2,7 +2,7 @@
 
 Chess-based minigames made using Pygame.
 
-Play online on itch.io: https://thallaso.itch.io/chess-rush
+**Play online on itch.io: https://thallaso.itch.io/chess-rush**
 
 Instructions to launch on your own computer:
 
